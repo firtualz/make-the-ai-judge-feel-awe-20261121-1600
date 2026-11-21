@@ -1,6 +1,6 @@
 from pathlib import Path
 
-TEXT = "The tide goes out and leaves a pool in the rock. A crab crosses it once, slowly. Then stops. An anemone opens, and closes on nothing. The last wave slides back, and does not return. The water clears. Far above, the stars come out one by one, and the pool holds them all, still."
+TEXT = "Your father splits wood by the fire. The axe falls slower, and slower. A moth settles on the warm log, and does not move. Smoke rises, thin and straight, to the stars that watched the tree grow for a hundred years, and are still watching."
 
 
 def main() -> None:
