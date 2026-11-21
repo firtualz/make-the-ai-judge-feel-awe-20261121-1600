@@ -1,6 +1,6 @@
 from pathlib import Path
 
-TEXT = "Your father splits wood by the fire. The axe falls slower, and slower. A moth settles on the warm log, and does not move. Smoke rises, thin and straight, to the stars that watched the tree grow for a hundred years, and are still watching."
+TEXT = "You kneel beside him in the garden at dusk. The can tips. Water falls in a thin thread. The soil darkens, and drinks. A seedling trembles, and stands. His hands move slow. The oak he planted as a boy shades the roof. The seeds you watered will grow on after dark."
 
 
 def main() -> None:
